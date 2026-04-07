@@ -1,0 +1,367 @@
+{
+  "title": "Dwellings",
+  "subtitle": "Geography 2016 by Tenure status",
+  "measure": "",
+  "source": "Statistics South Africa – SuperWEB2",
+  "categories": [
+    "Rented",
+    "Owned but not yet paid off",
+    "Occupied rent-free",
+    "Owned and fully paid off",
+    "Other",
+    "Unspecified",
+    "Not applicable"
+  ],
+  "data": {
+    "52502001": {
+      "Rented": 228.80296,
+      "Owned but not yet paid off": 113.66542,
+      "Occupied rent-free": 743.6096,
+      "Owned and fully paid off": 919.63261,
+      "Other": 135.55424,
+      "Unspecified": 22.48277,
+      "Not applicable": 13.68451,
+      "Total": 2177.43211
+    },
+    "52502002": {
+      "Rented": 586.82415,
+      "Owned but not yet paid off": 1185.66763,
+      "Occupied rent-free": 126.10827,
+      "Owned and fully paid off": 834.14931,
+      "Other": 35.13058,
+      "Unspecified": 50.41512,
+      "Not applicable": 340.85804,
+      "Total": 3159.1531
+    },
+    "52502003": {
+      "Rented": 824.35441,
+      "Owned but not yet paid off": 475.65819,
+      "Occupied rent-free": 71.51435,
+      "Owned and fully paid off": 973.67878,
+      "Other": 38.34483,
+      "Unspecified": 11.99184,
+      "Not applicable": 15.72847,
+      "Total": 2411.27087
+    },
+    "52502004": {
+      "Rented": 627.2743,
+      "Owned but not yet paid off": 717.64936,
+      "Occupied rent-free": 67.95133,
+      "Owned and fully paid off": 717.38121,
+      "Other": 44.18997,
+      "Unspecified": 35.02505,
+      "Not applicable": 129.72245,
+      "Total": 2339.19367
+    },
+    "52502005": {
+      "Rented": 990.71172,
+      "Owned but not yet paid off": 1182.56892,
+      "Occupied rent-free": 103.01999,
+      "Owned and fully paid off": 562.37728,
+      "Other": 66.43319,
+      "Unspecified": 59.08384,
+      "Not applicable": 101.21001,
+      "Total": 3065.40495
+    },
+    "52502006": {
+      "Rented": 366.99245,
+      "Owned but not yet paid off": 157.85746,
+      "Occupied rent-free": 857.56167,
+      "Owned and fully paid off": 1162.54828,
+      "Other": 35.56162,
+      "Unspecified": 19.46493,
+      "Not applicable": 3.08071,
+      "Total": 2603.06712
+    },
+    "52502007": {
+      "Rented": 206.23776,
+      "Owned but not yet paid off": 235.96923,
+      "Occupied rent-free": 1017.19766,
+      "Owned and fully paid off": 1099.96169,
+      "Other": 23.88932,
+      "Unspecified": 26.32415,
+      "Not applicable": 3.04949,
+      "Total": 2612.6293
+    },
+    "52502008": {
+      "Rented": 257.7003,
+      "Owned but not yet paid off": 42.01763,
+      "Occupied rent-free": 344.03942,
+      "Owned and fully paid off": 1186.02878,
+      "Other": 30.68695,
+      "Unspecified": 7.90473,
+      "Not applicable": 5.89286,
+      "Total": 1874.27067
+    },
+    "52502009": {
+      "Rented": 289.80107,
+      "Owned but not yet paid off": 242.01308,
+      "Occupied rent-free": 627.84718,
+      "Owned and fully paid off": 1668.86019,
+      "Other": 122.87653,
+      "Unspecified": 10.90517,
+      "Not applicable": 2.3259,
+      "Total": 2964.62912
+    },
+    "52502010": {
+      "Rented": 519.43718,
+      "Owned but not yet paid off": 44.12796,
+      "Occupied rent-free": 486.80265,
+      "Owned and fully paid off": 759.31549,
+      "Other": 26.93049,
+      "Unspecified": 17.19944,
+      "Not applicable": 0.0,
+      "Total": 1853.81321
+    },
+    "52502011": {
+      "Rented": 689.18685,
+      "Owned but not yet paid off": 24.7323,
+      "Occupied rent-free": 694.11381,
+      "Owned and fully paid off": 596.65794,
+      "Other": 55.44718,
+      "Unspecified": 7.18105,
+      "Not applicable": 42.45185,
+      "Total": 2109.77098
+    },
+    "52502012": {
+      "Rented": 346.97597,
+      "Owned but not yet paid off": 23.99562,
+      "Occupied rent-free": 640.05067,
+      "Owned and fully paid off": 472.15686,
+      "Other": 347.93677,
+      "Unspecified": 19.96038,
+      "Not applicable": 6.02171,
+      "Total": 1857.09798
+    },
+    "52502013": {
+      "Rented": 323.9921,
+      "Owned but not yet paid off": 47.93882,
+      "Occupied rent-free": 504.54657,
+      "Owned and fully paid off": 761.37001,
+      "Other": 51.34842,
+      "Unspecified": 16.62145,
+      "Not applicable": 1.13269,
+      "Total": 1706.95006
+    },
+    "52502014": {
+      "Rented": 1053.78966,
+      "Owned but not yet paid off": 305.76977,
+      "Occupied rent-free": 505.73732,
+      "Owned and fully paid off": 2176.00954,
+      "Other": 112.78052,
+      "Unspecified": 14.08824,
+      "Not applicable": 4.18218,
+      "Total": 4172.35723
+    },
+    "52502015": {
+      "Rented": 603.68233,
+      "Owned but not yet paid off": 164.40732,
+      "Occupied rent-free": 1345.88851,
+      "Owned and fully paid off": 358.59561,
+      "Other": 5.87224,
+      "Unspecified": 15.99121,
+      "Not applicable": 2.87601,
+      "Total": 2497.31323
+    },
+    "52502016": {
+      "Rented": 624.11095,
+      "Owned but not yet paid off": 103.02366,
+      "Occupied rent-free": 1621.46069,
+      "Owned and fully paid off": 478.63393,
+      "Other": 17.97915,
+      "Unspecified": 16.16939,
+      "Not applicable": 2.87601,
+      "Total": 2864.25378
+    },
+    "52502017": {
+      "Rented": 426.72183,
+      "Owned but not yet paid off": 139.61349,
+      "Occupied rent-free": 785.94755,
+      "Owned and fully paid off": 1335.74088,
+      "Other": 44.35564,
+      "Unspecified": 19.74199,
+      "Not applicable": 0.0,
+      "Total": 2752.12138
+    },
+    "52502018": {
+      "Rented": 373.86677,
+      "Owned but not yet paid off": 8.653,
+      "Occupied rent-free": 492.79382,
+      "Owned and fully paid off": 805.91876,
+      "Other": 28.66563,
+      "Unspecified": 20.84616,
+      "Not applicable": 0.0,
+      "Total": 1730.74414
+    },
+    "52502019": {
+      "Rented": 704.97657,
+      "Owned but not yet paid off": 147.09244,
+      "Occupied rent-free": 597.71373,
+      "Owned and fully paid off": 1027.19245,
+      "Other": 27.77914,
+      "Unspecified": 5.22575,
+      "Not applicable": 6.2134,
+      "Total": 2516.19348
+    },
+    "52502020": {
+      "Rented": 589.38521,
+      "Owned but not yet paid off": 134.00502,
+      "Occupied rent-free": 545.58873,
+      "Owned and fully paid off": 712.06001,
+      "Other": 272.14948,
+      "Unspecified": 12.73128,
+      "Not applicable": 14.03626,
+      "Total": 2279.95599
+    },
+    "52502021": {
+      "Rented": 381.70835,
+      "Owned but not yet paid off": 309.32264,
+      "Occupied rent-free": 682.86104,
+      "Owned and fully paid off": 792.97702,
+      "Other": 219.65138,
+      "Unspecified": 20.71506,
+      "Not applicable": 107.66335,
+      "Total": 2514.89884
+    },
+    "52502022": {
+      "Rented": 419.61007,
+      "Owned but not yet paid off": 515.09858,
+      "Occupied rent-free": 53.31739,
+      "Owned and fully paid off": 846.26248,
+      "Other": 127.69313,
+      "Unspecified": 7.81425,
+      "Not applicable": 5.5996,
+      "Total": 1975.3955
+    },
+    "52502023": {
+      "Rented": 557.91677,
+      "Owned but not yet paid off": 175.69232,
+      "Occupied rent-free": 140.50136,
+      "Owned and fully paid off": 1246.37737,
+      "Other": 23.18278,
+      "Unspecified": 17.9394,
+      "Not applicable": 3.93249,
+      "Total": 2165.54249
+    },
+    "52502024": {
+      "Rented": 1104.84779,
+      "Owned but not yet paid off": 222.6892,
+      "Occupied rent-free": 323.40924,
+      "Owned and fully paid off": 1088.79694,
+      "Other": 58.99058,
+      "Unspecified": 40.23929,
+      "Not applicable": 27.45518,
+      "Total": 2866.42822
+    },
+    "52502025": {
+      "Rented": 938.77715,
+      "Owned but not yet paid off": 635.91472,
+      "Occupied rent-free": 298.06976,
+      "Owned and fully paid off": 937.11381,
+      "Other": 124.31472,
+      "Unspecified": 0.0,
+      "Not applicable": 58.62736,
+      "Total": 2992.81752
+    },
+    "52502026": {
+      "Rented": 631.62317,
+      "Owned but not yet paid off": 188.15285,
+      "Occupied rent-free": 563.89251,
+      "Owned and fully paid off": 1572.02994,
+      "Other": 64.40529,
+      "Unspecified": 14.70796,
+      "Not applicable": 1.0,
+      "Total": 3035.81172
+    },
+    "52502027": {
+      "Rented": 726.58767,
+      "Owned but not yet paid off": 136.99554,
+      "Occupied rent-free": 101.20235,
+      "Owned and fully paid off": 1436.45304,
+      "Other": 80.29832,
+      "Unspecified": 16.99799,
+      "Not applicable": 7.17969,
+      "Total": 2505.7146
+    },
+    "52502028": {
+      "Rented": 575.03982,
+      "Owned but not yet paid off": 185.64871,
+      "Occupied rent-free": 24.19711,
+      "Owned and fully paid off": 1096.35413,
+      "Other": 36.29894,
+      "Unspecified": 23.92333,
+      "Not applicable": 6.05677,
+      "Total": 1947.51881
+    },
+    "52502029": {
+      "Rented": 660.94341,
+      "Owned but not yet paid off": 81.00143,
+      "Occupied rent-free": 127.48293,
+      "Owned and fully paid off": 1534.18601,
+      "Other": 131.06875,
+      "Unspecified": 12.58504,
+      "Not applicable": 4.29918,
+      "Total": 2551.56675
+    },
+    "52502030": {
+      "Rented": 238.88387,
+      "Owned but not yet paid off": 147.16199,
+      "Occupied rent-free": 922.54773,
+      "Owned and fully paid off": 623.96072,
+      "Other": 150.15549,
+      "Unspecified": 3.95672,
+      "Not applicable": 0.0,
+      "Total": 2086.66652
+    },
+    "52502031": {
+      "Rented": 361.60103,
+      "Owned but not yet paid off": 156.19279,
+      "Occupied rent-free": 405.92728,
+      "Owned and fully paid off": 1656.26222,
+      "Other": 47.33133,
+      "Unspecified": 5.37989,
+      "Not applicable": 1.02295,
+      "Total": 2633.71749
+    },
+    "52502032": {
+      "Rented": 652.34278,
+      "Owned but not yet paid off": 152.67687,
+      "Occupied rent-free": 811.03872,
+      "Owned and fully paid off": 1131.41576,
+      "Other": 38.74256,
+      "Unspecified": 12.46209,
+      "Not applicable": 4.58652,
+      "Total": 2803.2653
+    },
+    "52502033": {
+      "Rented": 59.12244,
+      "Owned but not yet paid off": 172.40029,
+      "Occupied rent-free": 895.1206,
+      "Owned and fully paid off": 1524.60699,
+      "Other": 13.46681,
+      "Unspecified": 12.75823,
+      "Not applicable": 1.0,
+      "Total": 2678.47536
+    },
+    "52502034": {
+      "Rented": 948.28847,
+      "Owned but not yet paid off": 606.26183,
+      "Occupied rent-free": 1276.12822,
+      "Owned and fully paid off": 551.11139,
+      "Other": 105.88227,
+      "Unspecified": 15.38102,
+      "Not applicable": 215.85621,
+      "Total": 3718.90941
+    },
+    "Total": {
+      "Rented": 18892.11733,
+      "Owned but not yet paid off": 9181.63608,
+      "Occupied rent-free": 18805.18976,
+      "Owned and fully paid off": 34646.17743,
+      "Other": 2745.39424,
+      "Unspecified": 614.21421,
+      "Not applicable": 1139.62185,
+      "Total": 86024.3509
+    }
+  }
+}

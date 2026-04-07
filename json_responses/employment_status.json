@@ -1,0 +1,331 @@
+{
+  "title": "Labour Force",
+  "subtitle": "Geography 2016 by Official employment status",
+  "measure": "",
+  "source": "Statistics South Africa – SuperWEB2",
+  "categories": [
+    "Employed",
+    "Unemployed",
+    "Discouraged work-seeker",
+    "Other not economically active",
+    "Unspecified",
+    "Not applicable"
+  ],
+  "data": {
+    "52502001": {
+      "Employed": 1724.06789,
+      "Unemployed": 938.459,
+      "Discouraged work-seeker": 899.54237,
+      "Other not economically active": 2919.73012,
+      "Unspecified": 0.0,
+      "Not applicable": 4286.85303,
+      "Total": 10768.65241
+    },
+    "52502002": {
+      "Employed": 4172.54563,
+      "Unemployed": 281.04899,
+      "Discouraged work-seeker": 68.36863,
+      "Other not economically active": 1967.25835,
+      "Unspecified": 0.0,
+      "Not applicable": 2943.14842,
+      "Total": 9432.37002
+    },
+    "52502003": {
+      "Employed": 2925.3861,
+      "Unemployed": 359.26624,
+      "Discouraged work-seeker": 149.24179,
+      "Other not economically active": 2546.85855,
+      "Unspecified": 0.0,
+      "Not applicable": 2200.77503,
+      "Total": 8181.52771
+    },
+    "52502004": {
+      "Employed": 2979.22505,
+      "Unemployed": 145.01326,
+      "Discouraged work-seeker": 25.81402,
+      "Other not economically active": 1522.52061,
+      "Unspecified": 0.0,
+      "Not applicable": 1961.67551,
+      "Total": 6634.24845
+    },
+    "52502005": {
+      "Employed": 3085.28045,
+      "Unemployed": 539.27269,
+      "Discouraged work-seeker": 130.79086,
+      "Other not economically active": 3370.86245,
+      "Unspecified": 0.0,
+      "Not applicable": 2831.88521,
+      "Total": 9958.09166
+    },
+    "52502006": {
+      "Employed": 1176.60671,
+      "Unemployed": 901.32888,
+      "Discouraged work-seeker": 745.88713,
+      "Other not economically active": 3923.37066,
+      "Unspecified": 0.0,
+      "Not applicable": 5069.26155,
+      "Total": 11816.45493
+    },
+    "52502007": {
+      "Employed": 1264.4912,
+      "Unemployed": 1353.10493,
+      "Discouraged work-seeker": 868.63741,
+      "Other not economically active": 3256.05869,
+      "Unspecified": 0.0,
+      "Not applicable": 4894.05614,
+      "Total": 11636.34837
+    },
+    "52502008": {
+      "Employed": 1053.83529,
+      "Unemployed": 1875.50204,
+      "Discouraged work-seeker": 517.81663,
+      "Other not economically active": 2172.07244,
+      "Unspecified": 0.0,
+      "Not applicable": 3504.73965,
+      "Total": 9123.96605
+    },
+    "52502009": {
+      "Employed": 1955.89202,
+      "Unemployed": 1525.28136,
+      "Discouraged work-seeker": 494.2931,
+      "Other not economically active": 3297.38589,
+      "Unspecified": 0.0,
+      "Not applicable": 4554.43608,
+      "Total": 11827.28845
+    },
+    "52502010": {
+      "Employed": 1170.43291,
+      "Unemployed": 867.47965,
+      "Discouraged work-seeker": 509.26151,
+      "Other not economically active": 3023.11919,
+      "Unspecified": 0.0,
+      "Not applicable": 3371.32789,
+      "Total": 8941.62115
+    },
+    "52502011": {
+      "Employed": 1424.86972,
+      "Unemployed": 698.87056,
+      "Discouraged work-seeker": 437.7125,
+      "Other not economically active": 3149.83165,
+      "Unspecified": 0.0,
+      "Not applicable": 3409.83134,
+      "Total": 9121.11577
+    },
+    "52502012": {
+      "Employed": 808.46143,
+      "Unemployed": 1580.92164,
+      "Discouraged work-seeker": 397.21904,
+      "Other not economically active": 2787.17459,
+      "Unspecified": 0.0,
+      "Not applicable": 3846.24489,
+      "Total": 9420.02159
+    },
+    "52502013": {
+      "Employed": 996.6395,
+      "Unemployed": 1339.98667,
+      "Discouraged work-seeker": 429.91645,
+      "Other not economically active": 2447.79851,
+      "Unspecified": 0.0,
+      "Not applicable": 3327.29815,
+      "Total": 8541.63928
+    },
+    "52502014": {
+      "Employed": 2772.92511,
+      "Unemployed": 2244.24425,
+      "Discouraged work-seeker": 548.33442,
+      "Other not economically active": 5039.07758,
+      "Unspecified": 0.0,
+      "Not applicable": 6200.81273,
+      "Total": 16805.39409
+    },
+    "52502015": {
+      "Employed": 1074.13029,
+      "Unemployed": 1080.43302,
+      "Discouraged work-seeker": 1725.44281,
+      "Other not economically active": 2797.51381,
+      "Unspecified": 0.0,
+      "Not applicable": 4897.63796,
+      "Total": 11575.15789
+    },
+    "52502016": {
+      "Employed": 1728.46672,
+      "Unemployed": 1772.92775,
+      "Discouraged work-seeker": 978.60039,
+      "Other not economically active": 3935.17822,
+      "Unspecified": 0.0,
+      "Not applicable": 6040.59359,
+      "Total": 14455.76667
+    },
+    "52502017": {
+      "Employed": 1452.46665,
+      "Unemployed": 1947.93114,
+      "Discouraged work-seeker": 784.78466,
+      "Other not economically active": 3815.8719,
+      "Unspecified": 0.0,
+      "Not applicable": 4833.13701,
+      "Total": 12834.19136
+    },
+    "52502018": {
+      "Employed": 888.67196,
+      "Unemployed": 1139.90601,
+      "Discouraged work-seeker": 659.19688,
+      "Other not economically active": 2532.34993,
+      "Unspecified": 0.0,
+      "Not applicable": 3536.08434,
+      "Total": 8756.20912
+    },
+    "52502019": {
+      "Employed": 1742.20992,
+      "Unemployed": 1097.77638,
+      "Discouraged work-seeker": 267.55402,
+      "Other not economically active": 3403.24739,
+      "Unspecified": 0.0,
+      "Not applicable": 3506.74231,
+      "Total": 10017.53002
+    },
+    "52502020": {
+      "Employed": 1391.72752,
+      "Unemployed": 914.93741,
+      "Discouraged work-seeker": 188.69231,
+      "Other not economically active": 3652.13034,
+      "Unspecified": 0.0,
+      "Not applicable": 3548.4753,
+      "Total": 9695.96288
+    },
+    "52502021": {
+      "Employed": 2879.20352,
+      "Unemployed": 750.0768,
+      "Discouraged work-seeker": 375.02827,
+      "Other not economically active": 3584.27078,
+      "Unspecified": 0.0,
+      "Not applicable": 3702.2443,
+      "Total": 11290.82367
+    },
+    "52502022": {
+      "Employed": 1435.22624,
+      "Unemployed": 701.68539,
+      "Discouraged work-seeker": 289.49383,
+      "Other not economically active": 3409.87887,
+      "Unspecified": 0.0,
+      "Not applicable": 2940.38042,
+      "Total": 8776.66475
+    },
+    "52502023": {
+      "Employed": 1548.66452,
+      "Unemployed": 837.4161,
+      "Discouraged work-seeker": 269.83309,
+      "Other not economically active": 4006.2574,
+      "Unspecified": 0.0,
+      "Not applicable": 3954.13184,
+      "Total": 10616.30295
+    },
+    "52502024": {
+      "Employed": 2109.70888,
+      "Unemployed": 1076.82258,
+      "Discouraged work-seeker": 380.33846,
+      "Other not economically active": 4444.41297,
+      "Unspecified": 0.0,
+      "Not applicable": 3805.95492,
+      "Total": 11817.23781
+    },
+    "52502025": {
+      "Employed": 2648.96383,
+      "Unemployed": 852.43803,
+      "Discouraged work-seeker": 133.1784,
+      "Other not economically active": 2481.80024,
+      "Unspecified": 0.0,
+      "Not applicable": 2484.91942,
+      "Total": 8601.29992
+    },
+    "52502026": {
+      "Employed": 2495.44563,
+      "Unemployed": 1543.51606,
+      "Discouraged work-seeker": 675.06511,
+      "Other not economically active": 3955.62644,
+      "Unspecified": 0.0,
+      "Not applicable": 4708.11108,
+      "Total": 13377.76432
+    },
+    "52502027": {
+      "Employed": 2067.01506,
+      "Unemployed": 1122.42246,
+      "Discouraged work-seeker": 270.46311,
+      "Other not economically active": 3708.00183,
+      "Unspecified": 0.0,
+      "Not applicable": 3863.40098,
+      "Total": 11031.30344
+    },
+    "52502028": {
+      "Employed": 1108.33001,
+      "Unemployed": 945.12801,
+      "Discouraged work-seeker": 569.8089,
+      "Other not economically active": 3243.79958,
+      "Unspecified": 0.0,
+      "Not applicable": 3060.74795,
+      "Total": 8927.81445
+    },
+    "52502029": {
+      "Employed": 2094.45488,
+      "Unemployed": 978.87182,
+      "Discouraged work-seeker": 309.25646,
+      "Other not economically active": 3876.31071,
+      "Unspecified": 0.0,
+      "Not applicable": 3805.67722,
+      "Total": 11064.57109
+    },
+    "52502030": {
+      "Employed": 937.28313,
+      "Unemployed": 709.58702,
+      "Discouraged work-seeker": 751.5446,
+      "Other not economically active": 3143.5564,
+      "Unspecified": 0.0,
+      "Not applicable": 3643.27849,
+      "Total": 9185.24964
+    },
+    "52502031": {
+      "Employed": 1480.57316,
+      "Unemployed": 1564.21604,
+      "Discouraged work-seeker": 300.49975,
+      "Other not economically active": 3522.31696,
+      "Unspecified": 0.0,
+      "Not applicable": 4510.95487,
+      "Total": 11378.56078
+    },
+    "52502032": {
+      "Employed": 1640.37334,
+      "Unemployed": 1269.21468,
+      "Discouraged work-seeker": 571.29799,
+      "Other not economically active": 3803.02096,
+      "Unspecified": 0.0,
+      "Not applicable": 4635.89507,
+      "Total": 11919.80204
+    },
+    "52502033": {
+      "Employed": 1007.89981,
+      "Unemployed": 1537.14129,
+      "Discouraged work-seeker": 752.573,
+      "Other not economically active": 3683.15908,
+      "Unspecified": 0.0,
+      "Not applicable": 5388.03332,
+      "Total": 12368.8065
+    },
+    "52502034": {
+      "Employed": 3726.47139,
+      "Unemployed": 1194.03955,
+      "Discouraged work-seeker": 545.93835,
+      "Other not economically active": 3803.17387,
+      "Unspecified": 0.0,
+      "Not applicable": 4066.57183,
+      "Total": 13336.19499
+    },
+    "Total": {
+      "Employed": 62967.94547,
+      "Unemployed": 37686.2677,
+      "Discouraged work-seeker": 17021.42625,
+      "Other not economically active": 112224.99696,
+      "Unspecified": 0.0,
+      "Not applicable": 133335.31784,
+      "Total": 363235.95422
+    }
+  }
+}
