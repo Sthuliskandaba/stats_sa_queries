@@ -1,0 +1,259 @@
+{
+  "title": "Household Head",
+  "subtitle": "Geography 2016 by Sex of head of the household",
+  "measure": "",
+  "source": "Statistics South Africa – SuperWEB2",
+  "categories": [
+    "Male",
+    "Female",
+    "Not applicable",
+    "Unspecified"
+  ],
+  "data": {
+    "52502001": {
+      "Male": 1300.84033,
+      "Female": 874.59178,
+      "Not applicable": 2.0,
+      "Unspecified": 0.0,
+      "Total": 2177.43211
+    },
+    "52502002": {
+      "Male": 2229.87583,
+      "Female": 926.27727,
+      "Not applicable": 3.0,
+      "Unspecified": 0.0,
+      "Total": 3159.1531
+    },
+    "52502003": {
+      "Male": 1747.50753,
+      "Female": 659.76334,
+      "Not applicable": 4.0,
+      "Unspecified": 0.0,
+      "Total": 2411.27087
+    },
+    "52502004": {
+      "Male": 1627.46634,
+      "Female": 711.72733,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2339.19367
+    },
+    "52502005": {
+      "Male": 1823.17046,
+      "Female": 1242.23449,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 3065.40495
+    },
+    "52502006": {
+      "Male": 1210.1251,
+      "Female": 1390.94202,
+      "Not applicable": 2.0,
+      "Unspecified": 0.0,
+      "Total": 2603.06712
+    },
+    "52502007": {
+      "Male": 1265.46529,
+      "Female": 1347.16401,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2612.6293
+    },
+    "52502008": {
+      "Male": 845.07001,
+      "Female": 1029.20066,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 1874.27067
+    },
+    "52502009": {
+      "Male": 1560.22154,
+      "Female": 1404.40758,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2964.62912
+    },
+    "52502010": {
+      "Male": 908.35953,
+      "Female": 945.45368,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 1853.81321
+    },
+    "52502011": {
+      "Male": 978.04358,
+      "Female": 1131.7274,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2109.77098
+    },
+    "52502012": {
+      "Male": 816.12848,
+      "Female": 1040.9695,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 1857.09798
+    },
+    "52502013": {
+      "Male": 762.60998,
+      "Female": 944.34008,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 1706.95006
+    },
+    "52502014": {
+      "Male": 1974.93467,
+      "Female": 2197.42256,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 4172.35723
+    },
+    "52502015": {
+      "Male": 1223.00581,
+      "Female": 1274.30742,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2497.31323
+    },
+    "52502016": {
+      "Male": 1345.64307,
+      "Female": 1518.61071,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2864.25378
+    },
+    "52502017": {
+      "Male": 1301.94881,
+      "Female": 1450.17257,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2752.12138
+    },
+    "52502018": {
+      "Male": 844.87621,
+      "Female": 885.86793,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 1730.74414
+    },
+    "52502019": {
+      "Male": 1175.87247,
+      "Female": 1340.32101,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2516.19348
+    },
+    "52502020": {
+      "Male": 1113.92203,
+      "Female": 1166.03396,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2279.95599
+    },
+    "52502021": {
+      "Male": 1588.29487,
+      "Female": 916.60397,
+      "Not applicable": 10.0,
+      "Unspecified": 0.0,
+      "Total": 2514.89884
+    },
+    "52502022": {
+      "Male": 944.64379,
+      "Female": 1028.75171,
+      "Not applicable": 2.0,
+      "Unspecified": 0.0,
+      "Total": 1975.3955
+    },
+    "52502023": {
+      "Male": 997.9931,
+      "Female": 1166.54939,
+      "Not applicable": 1.0,
+      "Unspecified": 0.0,
+      "Total": 2165.54249
+    },
+    "52502024": {
+      "Male": 1327.47875,
+      "Female": 1537.94947,
+      "Not applicable": 1.0,
+      "Unspecified": 0.0,
+      "Total": 2866.42822
+    },
+    "52502025": {
+      "Male": 2057.52102,
+      "Female": 933.2965,
+      "Not applicable": 2.0,
+      "Unspecified": 0.0,
+      "Total": 2992.81752
+    },
+    "52502026": {
+      "Male": 1654.8663,
+      "Female": 1380.94542,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 3035.81172
+    },
+    "52502027": {
+      "Male": 1311.35957,
+      "Female": 1194.35503,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2505.7146
+    },
+    "52502028": {
+      "Male": 857.19917,
+      "Female": 1089.31964,
+      "Not applicable": 1.0,
+      "Unspecified": 0.0,
+      "Total": 1947.51881
+    },
+    "52502029": {
+      "Male": 1247.4929,
+      "Female": 1304.07385,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2551.56675
+    },
+    "52502030": {
+      "Male": 935.22153,
+      "Female": 1151.44499,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2086.66652
+    },
+    "52502031": {
+      "Male": 1402.97575,
+      "Female": 1230.74174,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2633.71749
+    },
+    "52502032": {
+      "Male": 1343.30349,
+      "Female": 1459.96181,
+      "Not applicable": 0.0,
+      "Unspecified": 0.0,
+      "Total": 2803.2653
+    },
+    "52502033": {
+      "Male": 1167.83331,
+      "Female": 1509.64205,
+      "Not applicable": 1.0,
+      "Unspecified": 0.0,
+      "Total": 2678.47536
+    },
+    "52502034": {
+      "Male": 2273.43313,
+      "Female": 1433.47628,
+      "Not applicable": 12.0,
+      "Unspecified": 0.0,
+      "Total": 3718.90941
+    },
+    "Total": {
+      "Male": 45164.70375,
+      "Female": 40818.64715,
+      "Not applicable": 41.0,
+      "Unspecified": 0.0,
+      "Total": 86024.3509
+    }
+  }
+}

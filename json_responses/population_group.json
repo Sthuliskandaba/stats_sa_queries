@@ -1,0 +1,295 @@
+{
+  "title": "Ward by Population Group Estimates",
+  "subtitle": "Ward 2022 by Population group",
+  "measure": "",
+  "source": "Statistics South Africa – SuperWEB2",
+  "categories": [
+    "Black African",
+    "Coloured",
+    "Indian or Asian",
+    "White",
+    "Other"
+  ],
+  "data": {
+    "52502001": {
+      "Black African": 11861.056877,
+      "Coloured": 133.450021,
+      "Indian or Asian": 55.405101,
+      "White": 484.155907,
+      "Other": 29.119738,
+      "Total": 12563.187643
+    },
+    "52502002": {
+      "Black African": 4643.295359,
+      "Coloured": 180.217348,
+      "Indian or Asian": 582.170241,
+      "White": 7500.151645,
+      "Other": 108.914542,
+      "Total": 13014.749135
+    },
+    "52502003": {
+      "Black African": 957.40474,
+      "Coloured": 334.807688,
+      "Indian or Asian": 9187.226876,
+      "White": 115.850166,
+      "Other": 100.914542,
+      "Total": 10696.204012
+    },
+    "52502004": {
+      "Black African": 2422.998849,
+      "Coloured": 175.46594,
+      "Indian or Asian": 1303.515079,
+      "White": 6533.632463,
+      "Other": 157.294905,
+      "Total": 10592.907237
+    },
+    "52502005": {
+      "Black African": 10262.933543,
+      "Coloured": 131.6481,
+      "Indian or Asian": 392.761509,
+      "White": 2924.440163,
+      "Other": 52.896829,
+      "Total": 13764.680143
+    },
+    "52502006": {
+      "Black African": 24674.273995,
+      "Coloured": 55.996149,
+      "Indian or Asian": 28.094313,
+      "White": 13.919385,
+      "Other": 31.516465,
+      "Total": 24803.800307
+    },
+    "52502007": {
+      "Black African": 21554.859449,
+      "Coloured": 19.879268,
+      "Indian or Asian": 10.285054,
+      "White": 8.599567,
+      "Other": 27.034076,
+      "Total": 21620.657413
+    },
+    "52502008": {
+      "Black African": 11667.857102,
+      "Coloured": 25.080853,
+      "Indian or Asian": 18.350595,
+      "White": 5.023725,
+      "Other": 11.275844,
+      "Total": 11727.588118
+    },
+    "52502009": {
+      "Black African": 15534.865717,
+      "Coloured": 18.994882,
+      "Indian or Asian": 6.437213,
+      "White": 4.029945,
+      "Other": 23.637349,
+      "Total": 15587.965106
+    },
+    "52502010": {
+      "Black African": 11432.646554,
+      "Coloured": 33.620773,
+      "Indian or Asian": 12.208144,
+      "White": 4.750067,
+      "Other": 13.447167,
+      "Total": 11496.672705
+    },
+    "52502011": {
+      "Black African": 13528.488107,
+      "Coloured": 90.252239,
+      "Indian or Asian": 11.663818,
+      "White": 11.641383,
+      "Other": 84.048148,
+      "Total": 13726.093696
+    },
+    "52502012": {
+      "Black African": 14885.037664,
+      "Coloured": 23.854892,
+      "Indian or Asian": 18.681411,
+      "White": 1.774379,
+      "Other": 24.723011,
+      "Total": 14954.071357
+    },
+    "52502013": {
+      "Black African": 9347.863196,
+      "Coloured": 34.746769,
+      "Indian or Asian": 26.519825,
+      "White": 5.745506,
+      "Other": 10.190182,
+      "Total": 9425.065477
+    },
+    "52502014": {
+      "Black African": 17809.991868,
+      "Coloured": 56.66481,
+      "Indian or Asian": 20.327854,
+      "White": 6.527436,
+      "Other": 143.049497,
+      "Total": 18036.561465
+    },
+    "52502015": {
+      "Black African": 18681.376952,
+      "Coloured": 39.395905,
+      "Indian or Asian": 18.104021,
+      "White": 19.273926,
+      "Other": 11.275844,
+      "Total": 18769.426648
+    },
+    "52502016": {
+      "Black African": 17176.009413,
+      "Coloured": 33.254255,
+      "Indian or Asian": 15.66502,
+      "White": 5.742516,
+      "Other": 7.879116,
+      "Total": 17238.55032
+    },
+    "52502017": {
+      "Black African": 16141.81716,
+      "Coloured": 47.481085,
+      "Indian or Asian": 9.052011,
+      "White": 13.04446,
+      "Other": 68.429658,
+      "Total": 16279.824373
+    },
+    "52502018": {
+      "Black African": 15097.254008,
+      "Coloured": 30.997869,
+      "Indian or Asian": 15.815391,
+      "White": 6.225492,
+      "Other": 38.879116,
+      "Total": 15189.171876
+    },
+    "52502019": {
+      "Black African": 13779.050504,
+      "Coloured": 39.975299,
+      "Indian or Asian": 26.28388,
+      "White": 5.293062,
+      "Other": 152.154018,
+      "Total": 14002.756763
+    },
+    "52502020": {
+      "Black African": 13856.81575,
+      "Coloured": 25.944036,
+      "Indian or Asian": 13.053212,
+      "White": 12.689332,
+      "Other": 14.672571,
+      "Total": 13923.174901
+    },
+    "52502021": {
+      "Black African": 19078.72758,
+      "Coloured": 378.796272,
+      "Indian or Asian": 131.753071,
+      "White": 865.001334,
+      "Other": 49.103374,
+      "Total": 20503.381631
+    },
+    "52502022": {
+      "Black African": 10772.008628,
+      "Coloured": 25.112041,
+      "Indian or Asian": 35.39438,
+      "White": 0.661633,
+      "Other": 14.672571,
+      "Total": 10847.849253
+    },
+    "52502023": {
+      "Black African": 14297.947361,
+      "Coloured": 39.758096,
+      "Indian or Asian": 11.757031,
+      "White": 7.815978,
+      "Other": 19.983636,
+      "Total": 14377.262103
+    },
+    "52502024": {
+      "Black African": 13036.927496,
+      "Coloured": 46.241715,
+      "Indian or Asian": 4.05836,
+      "White": 13.501336,
+      "Other": 11.275844,
+      "Total": 13112.00475
+    },
+    "52502025": {
+      "Black African": 3123.281763,
+      "Coloured": 1759.064947,
+      "Indian or Asian": 4079.218246,
+      "White": 196.017778,
+      "Other": 70.853162,
+      "Total": 9228.435897
+    },
+    "52502026": {
+      "Black African": 15486.205233,
+      "Coloured": 39.778768,
+      "Indian or Asian": 45.912388,
+      "White": 14.586997,
+      "Other": 20.240622,
+      "Total": 15606.724008
+    },
+    "52502027": {
+      "Black African": 15044.449433,
+      "Coloured": 52.161272,
+      "Indian or Asian": 9.503124,
+      "White": 11.818839,
+      "Other": 10.190182,
+      "Total": 15128.12285
+    },
+    "52502028": {
+      "Black African": 10809.116183,
+      "Coloured": 40.9581,
+      "Indian or Asian": 28.206971,
+      "White": 7.489811,
+      "Other": 13.361505,
+      "Total": 10899.132569
+    },
+    "52502029": {
+      "Black African": 12381.199451,
+      "Coloured": 44.842259,
+      "Indian or Asian": 14.797517,
+      "White": 5.623878,
+      "Other": 3.396727,
+      "Total": 12449.859833
+    },
+    "52502030": {
+      "Black African": 12410.374778,
+      "Coloured": 32.111775,
+      "Indian or Asian": 55.12075,
+      "White": 5.261329,
+      "Other": 13.586909,
+      "Total": 12516.455541
+    },
+    "52502031": {
+      "Black African": 15804.552478,
+      "Coloured": 19.672129,
+      "Indian or Asian": 5.77558,
+      "White": 5.291403,
+      "Other": 59.636203,
+      "Total": 15894.927794
+    },
+    "52502032": {
+      "Black African": 18037.708287,
+      "Coloured": 97.28528,
+      "Indian or Asian": 25.983138,
+      "White": 8.963447,
+      "Other": 24.637349,
+      "Total": 18194.577501
+    },
+    "52502033": {
+      "Black African": 22558.297996,
+      "Coloured": 35.131805,
+      "Indian or Asian": 29.349791,
+      "White": 4.450984,
+      "Other": 42.932051,
+      "Total": 22670.162627
+    },
+    "52502034": {
+      "Black African": 13343.426305,
+      "Coloured": 325.522228,
+      "Indian or Asian": 2174.25281,
+      "White": 2947.211408,
+      "Other": 77.861607,
+      "Total": 18868.274357
+    },
+    "Total": {
+      "Black African": 461500.11978,
+      "Coloured": 4468.164867,
+      "Indian or Asian": 18422.703725,
+      "White": 21776.206677,
+      "Other": 1543.08436,
+      "Total": 507710.279409
+    }
+  }
+}

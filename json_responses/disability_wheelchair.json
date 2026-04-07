@@ -1,0 +1,295 @@
+{
+  "title": "Disability",
+  "subtitle": "Geography 2016 by Assistive devices and medication-A wheelchair",
+  "measure": "",
+  "source": "Statistics South Africa – SuperWEB2",
+  "categories": [
+    "Yes",
+    "No",
+    "do not know",
+    "Unspecified",
+    "Not applicable"
+  ],
+  "data": {
+    "52502001": {
+      "Yes": 124.39459,
+      "No": 10086.81912,
+      "do not know": 63.52474,
+      "Unspecified": 480.91396,
+      "Not applicable": 13.0,
+      "Total": 10768.65241
+    },
+    "52502002": {
+      "Yes": 283.07168,
+      "No": 8587.2535,
+      "do not know": 33.90395,
+      "Unspecified": 515.14089,
+      "Not applicable": 13.0,
+      "Total": 9432.37002
+    },
+    "52502003": {
+      "Yes": 222.13946,
+      "No": 7421.3747,
+      "do not know": 32.47858,
+      "Unspecified": 300.53497,
+      "Not applicable": 205.0,
+      "Total": 8181.52771
+    },
+    "52502004": {
+      "Yes": 179.19821,
+      "No": 6097.88385,
+      "do not know": 12.41195,
+      "Unspecified": 334.75444,
+      "Not applicable": 10.0,
+      "Total": 6634.24845
+    },
+    "52502005": {
+      "Yes": 360.01194,
+      "No": 9024.01526,
+      "do not know": 20.82405,
+      "Unspecified": 553.24041,
+      "Not applicable": 0.0,
+      "Total": 9958.09166
+    },
+    "52502006": {
+      "Yes": 161.29741,
+      "No": 11068.15331,
+      "do not know": 259.65755,
+      "Unspecified": 317.34666,
+      "Not applicable": 10.0,
+      "Total": 11816.45493
+    },
+    "52502007": {
+      "Yes": 193.58584,
+      "No": 11141.24959,
+      "do not know": 34.9799,
+      "Unspecified": 266.53304,
+      "Not applicable": 0.0,
+      "Total": 11636.34837
+    },
+    "52502008": {
+      "Yes": 122.91117,
+      "No": 8249.66663,
+      "do not know": 50.15362,
+      "Unspecified": 701.23463,
+      "Not applicable": 0.0,
+      "Total": 9123.96605
+    },
+    "52502009": {
+      "Yes": 150.59424,
+      "No": 11390.3721,
+      "do not know": 26.81866,
+      "Unspecified": 259.50345,
+      "Not applicable": 0.0,
+      "Total": 11827.28845
+    },
+    "52502010": {
+      "Yes": 91.21738,
+      "No": 8351.78258,
+      "do not know": 295.06743,
+      "Unspecified": 203.55376,
+      "Not applicable": 0.0,
+      "Total": 8941.62115
+    },
+    "52502011": {
+      "Yes": 120.32073,
+      "No": 8683.34342,
+      "do not know": 32.35481,
+      "Unspecified": 285.09681,
+      "Not applicable": 0.0,
+      "Total": 9121.11577
+    },
+    "52502012": {
+      "Yes": 200.33521,
+      "No": 8813.46603,
+      "do not know": 56.83814,
+      "Unspecified": 349.38221,
+      "Not applicable": 0.0,
+      "Total": 9420.02159
+    },
+    "52502013": {
+      "Yes": 83.34074,
+      "No": 7661.13181,
+      "do not know": 17.09437,
+      "Unspecified": 780.07236,
+      "Not applicable": 0.0,
+      "Total": 8541.63928
+    },
+    "52502014": {
+      "Yes": 185.96783,
+      "No": 16068.01769,
+      "do not know": 108.8513,
+      "Unspecified": 442.55727,
+      "Not applicable": 0.0,
+      "Total": 16805.39409
+    },
+    "52502015": {
+      "Yes": 77.91272,
+      "No": 11287.46769,
+      "do not know": 30.92661,
+      "Unspecified": 178.85087,
+      "Not applicable": 0.0,
+      "Total": 11575.15789
+    },
+    "52502016": {
+      "Yes": 186.73896,
+      "No": 13753.3747,
+      "do not know": 42.51597,
+      "Unspecified": 473.13704,
+      "Not applicable": 0.0,
+      "Total": 14455.76667
+    },
+    "52502017": {
+      "Yes": 162.37515,
+      "No": 12362.79913,
+      "do not know": 35.41107,
+      "Unspecified": 273.60601,
+      "Not applicable": 0.0,
+      "Total": 12834.19136
+    },
+    "52502018": {
+      "Yes": 105.56487,
+      "No": 8313.64322,
+      "do not know": 66.06603,
+      "Unspecified": 270.935,
+      "Not applicable": 0.0,
+      "Total": 8756.20912
+    },
+    "52502019": {
+      "Yes": 444.73731,
+      "No": 9258.3098,
+      "do not know": 55.17601,
+      "Unspecified": 259.3069,
+      "Not applicable": 0.0,
+      "Total": 10017.53002
+    },
+    "52502020": {
+      "Yes": 186.59117,
+      "No": 9110.09815,
+      "do not know": 45.903,
+      "Unspecified": 353.37056,
+      "Not applicable": 0.0,
+      "Total": 9695.96288
+    },
+    "52502021": {
+      "Yes": 206.39877,
+      "No": 9814.47336,
+      "do not know": 24.52902,
+      "Unspecified": 238.42252,
+      "Not applicable": 1007.0,
+      "Total": 11290.82367
+    },
+    "52502022": {
+      "Yes": 156.2192,
+      "No": 8124.02003,
+      "do not know": 33.29016,
+      "Unspecified": 168.13536,
+      "Not applicable": 295.0,
+      "Total": 8776.66475
+    },
+    "52502023": {
+      "Yes": 217.86857,
+      "No": 9979.17851,
+      "do not know": 43.33218,
+      "Unspecified": 369.92369,
+      "Not applicable": 6.0,
+      "Total": 10616.30295
+    },
+    "52502024": {
+      "Yes": 239.04776,
+      "No": 10667.51875,
+      "do not know": 45.35232,
+      "Unspecified": 864.31898,
+      "Not applicable": 1.0,
+      "Total": 11817.23781
+    },
+    "52502025": {
+      "Yes": 229.11996,
+      "No": 8100.56315,
+      "do not know": 50.58903,
+      "Unspecified": 156.02778,
+      "Not applicable": 65.0,
+      "Total": 8601.29992
+    },
+    "52502026": {
+      "Yes": 122.39799,
+      "No": 12960.88696,
+      "do not know": 73.98565,
+      "Unspecified": 220.49372,
+      "Not applicable": 0.0,
+      "Total": 13377.76432
+    },
+    "52502027": {
+      "Yes": 176.71748,
+      "No": 10428.61301,
+      "do not know": 40.33952,
+      "Unspecified": 385.63343,
+      "Not applicable": 0.0,
+      "Total": 11031.30344
+    },
+    "52502028": {
+      "Yes": 114.00108,
+      "No": 8420.94158,
+      "do not know": 39.1234,
+      "Unspecified": 329.74839,
+      "Not applicable": 24.0,
+      "Total": 8927.81445
+    },
+    "52502029": {
+      "Yes": 115.7017,
+      "No": 10613.58944,
+      "do not know": 29.60269,
+      "Unspecified": 305.67726,
+      "Not applicable": 0.0,
+      "Total": 11064.57109
+    },
+    "52502030": {
+      "Yes": 190.2683,
+      "No": 8638.16916,
+      "do not know": 121.10026,
+      "Unspecified": 235.71192,
+      "Not applicable": 0.0,
+      "Total": 9185.24964
+    },
+    "52502031": {
+      "Yes": 226.40017,
+      "No": 10774.16596,
+      "do not know": 77.60754,
+      "Unspecified": 300.38711,
+      "Not applicable": 0.0,
+      "Total": 11378.56078
+    },
+    "52502032": {
+      "Yes": 121.02516,
+      "No": 11303.95836,
+      "do not know": 164.14963,
+      "Unspecified": 330.66889,
+      "Not applicable": 0.0,
+      "Total": 11919.80204
+    },
+    "52502033": {
+      "Yes": 168.29517,
+      "No": 11774.4236,
+      "do not know": 94.2058,
+      "Unspecified": 322.88193,
+      "Not applicable": 9.0,
+      "Total": 12368.8065
+    },
+    "52502034": {
+      "Yes": 205.85439,
+      "No": 11224.15898,
+      "do not know": 48.05142,
+      "Unspecified": 368.1302,
+      "Not applicable": 1490.0,
+      "Total": 13336.19499
+    },
+    "Total": {
+      "Yes": 6131.62231,
+      "No": 339554.88313,
+      "do not know": 2206.21636,
+      "Unspecified": 12195.23242,
+      "Not applicable": 3148.0,
+      "Total": 363235.95422
+    }
+  }
+}
