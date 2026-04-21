@@ -1,0 +1,580 @@
+dataset,category,value
+age_group,0 - 4,2745.562526
+age_group,5 - 9,2559.255326
+age_group,10 - 14,2709.169838
+age_group,15 - 19,2410.384661
+age_group,20 - 24,2035.772433
+age_group,25 - 29,1949.648237
+age_group,30 - 34,1703.706243
+age_group,35 - 39,1526.435863
+age_group,40 - 44,1162.450029
+age_group,45 - 49,974.08865
+age_group,50 - 54,734.029923
+age_group,55 - 59,725.700473
+age_group,60 - 64,530.49626
+age_group,65 - 69,438.618298
+age_group,70 - 74,221.195678
+age_group,75 - 79,126.577472
+age_group,80 - 84,83.864541
+age_group,85+,33.206178
+age_group,Total,22670.162627
+age_of_hh_head,0,0.0
+age_of_hh_head,10,11.851
+age_of_hh_head,11,1.08071
+age_of_hh_head,12,1.7998
+age_of_hh_head,13,3.23185
+age_of_hh_head,14,1.07621
+age_of_hh_head,15,2.7998
+age_of_hh_head,16,10.86271
+age_of_hh_head,17,18.27891
+age_of_hh_head,18,20.92938
+age_of_hh_head,19,24.25482
+age_of_hh_head,20,40.34101
+age_of_hh_head,21,22.3961
+age_of_hh_head,22,42.33175
+age_of_hh_head,23,26.30611
+age_of_hh_head,24,30.58022
+age_of_hh_head,25,30.60292
+age_of_hh_head,26,32.32698
+age_of_hh_head,27,46.57593
+age_of_hh_head,28,45.04169
+age_of_hh_head,29,42.21476
+age_of_hh_head,30,58.41802
+age_of_hh_head,31,34.16793
+age_of_hh_head,32,50.87131
+age_of_hh_head,33,54.50378
+age_of_hh_head,34,49.11061
+age_of_hh_head,35,59.01926
+age_of_hh_head,36,75.36849
+age_of_hh_head,37,66.74555
+age_of_hh_head,38,60.21135
+age_of_hh_head,39,55.6159
+age_of_hh_head,40,43.12543
+age_of_hh_head,41,57.37391
+age_of_hh_head,42,69.58539
+age_of_hh_head,43,53.77513
+age_of_hh_head,44,59.0269
+age_of_hh_head,45,55.4053
+age_of_hh_head,46,42.80203
+age_of_hh_head,47,63.14329
+age_of_hh_head,48,55.42328
+age_of_hh_head,49,51.47716
+age_of_hh_head,50,57.81625
+age_of_hh_head,51,55.80275
+age_of_hh_head,52,64.29872
+age_of_hh_head,53,73.40623
+age_of_hh_head,54,56.8287
+age_of_hh_head,55,43.39662
+age_of_hh_head,56,44.59041
+age_of_hh_head,57,43.99432
+age_of_hh_head,58,35.62219
+age_of_hh_head,59,55.2064
+age_of_hh_head,60,50.25241
+age_of_hh_head,61,37.91296
+age_of_hh_head,62,47.84505
+age_of_hh_head,63,41.13857
+age_of_hh_head,64,35.04766
+age_of_hh_head,65,30.11217
+age_of_hh_head,66,17.03478
+age_of_hh_head,67,18.07101
+age_of_hh_head,68,26.77463
+age_of_hh_head,69,37.17373
+age_of_hh_head,70,23.51363
+age_of_hh_head,71,34.37184
+age_of_hh_head,72,23.35776
+age_of_hh_head,73,25.43995
+age_of_hh_head,74,14.58174
+age_of_hh_head,75,7.22577
+age_of_hh_head,76,12.45943
+age_of_hh_head,77,8.55167
+age_of_hh_head,78,12.43218
+age_of_hh_head,79,4.31256
+age_of_hh_head,80,12.37203
+age_of_hh_head,81,13.93697
+age_of_hh_head,82,10.37892
+age_of_hh_head,83,5.22127
+age_of_hh_head,84,6.30198
+age_of_hh_head,85,2.3304
+age_of_hh_head,86,3.23313
+age_of_hh_head,87,3.12211
+age_of_hh_head,88,2.3304
+age_of_hh_head,89,1.07621
+age_of_hh_head,90,2.0459
+age_of_hh_head,91,2.09916
+age_of_hh_head,92,0.0
+age_of_hh_head,93,2.15242
+age_of_hh_head,94,0.0
+age_of_hh_head,95,1.24969
+age_of_hh_head,96,1.0
+age_of_hh_head,97,0.0
+age_of_hh_head,98,0.0
+age_of_hh_head,99,0.0
+age_of_hh_head,100,0.0
+age_of_hh_head,101,0.0
+age_of_hh_head,102,0.0
+age_of_hh_head,103,0.0
+age_of_hh_head,104,0.0
+age_of_hh_head,105,0.0
+age_of_hh_head,106,0.0
+age_of_hh_head,107,0.0
+age_of_hh_head,108,0.0
+age_of_hh_head,109,0.0
+age_of_hh_head,110,0.0
+age_of_hh_head,111,0.0
+age_of_hh_head,112,0.0
+age_of_hh_head,113,0.0
+age_of_hh_head,114,0.0
+age_of_hh_head,115,0.0
+age_of_hh_head,116,0.0
+age_of_hh_head,117,0.0
+age_of_hh_head,118,0.0
+age_of_hh_head,119,0.0
+age_of_hh_head,120,0.0
+age_of_hh_head,Unspecified,0.0
+age_of_hh_head,Not applicable,1.0
+age_of_hh_head,Total,2678.47536
+disability_chronic_medication,Yes,948.46406
+disability_chronic_medication,No,10957.27682
+disability_chronic_medication,do not know,113.11353
+disability_chronic_medication,Unspecified,340.95209
+disability_chronic_medication,Not applicable,9.0
+disability_chronic_medication,Total,12368.8065
+disability_hearing,No difficulty,10823.75094
+disability_hearing,Some difficulty,381.84445
+disability_hearing,A lot of difficulty,80.24398
+disability_hearing,Cannot do at all,31.30162
+disability_hearing,Do not know,22.7592
+disability_hearing,Cannot yet be determined,614.42798
+disability_hearing,Unspecified,405.47833
+disability_hearing,Not applicable,9.0
+disability_hearing,Total,12368.8065
+disability_seeing,No difficulty,10138.64681
+disability_seeing,Some difficulty,967.88368
+disability_seeing,A lot of difficulty,212.54018
+disability_seeing,Cannot do at all,29.39444
+disability_seeing,Do not know,23.96342
+disability_seeing,Cannot yet be determined,616.86448
+disability_seeing,Unspecified,370.51349
+disability_seeing,Not applicable,9.0
+disability_seeing,Total,12368.8065
+disability_walking_stick,Yes,222.28874
+disability_walking_stick,No,11647.74514
+disability_walking_stick,do not know,102.3171
+disability_walking_stick,Unspecified,387.45552
+disability_walking_stick,Not applicable,9.0
+disability_walking_stick,Total,12368.8065
+disability_wheelchair,Yes,168.29517
+disability_wheelchair,No,11774.4236
+disability_wheelchair,do not know,94.2058
+disability_wheelchair,Unspecified,322.88193
+disability_wheelchair,Not applicable,9.0
+disability_wheelchair,Total,12368.8065
+education_level,grade 0,514.96955
+education_level,grade 1/sub A,518.18325
+education_level,grade 2/sub B,497.60184
+education_level,grade 3/std 1/ABET 1/Kha Ri Gude; SANLI,504.17883
+education_level,grade 4/std 2,580.41046
+education_level,grade 5/std 3/ABET 2,467.31982
+education_level,grade 6/std 4,527.27958
+education_level,grade 7/std 5/ABET 3,607.11168
+education_level,grade 8/std 6/form 1,746.80538
+education_level,grade 9/std 7/form 2/ABET 4,674.38361
+education_level,grade 10/std 8/form 3,978.20533
+education_level,grade 11/std 9/form 4,1092.18982
+education_level,grade 12/std 10/form 5,1939.78303
+education_level,NTC I/N1/NIC/(V) Level 2,17.12008
+education_level,NTC II/N2/NIC/(V) Level 3,20.4969
+education_level,NTC III/N3/NIC/(V) Level 4,14.40075
+education_level,N4/NTC 4,12.03063
+education_level,N5/NTC 5,13.38793
+education_level,N6/NTC 6,10.8507
+education_level,certificate with less than grade 12/std 10,1.21825
+education_level,diploma with less than grade 12/std 10,0.0
+education_level,certificate with grade 12/std 10,24.98982
+education_level,diploma with grade 12/std 10,33.97365
+education_level,Higher Diploma,22.45568
+education_level,Post Higher Diploma (Masters; Doctoral diploma),5.89627
+education_level,bachelors degree,7.20328
+education_level,bachelors degree and Post graduate diploma,1.21825
+education_level,honours degree,2.2094
+education_level,higher degree (masters; doctorate),1.21825
+education_level,other,5.9826
+education_level,no schooling,728.00715
+education_level,Unspecified,0.0
+education_level,Not applicable,1797.72473
+education_level,Total,24737.613
+educational_institution,Pre-School,18.09744
+educational_institution,School,4448.79002
+educational_institution,Special School,16.2867
+educational_institution,Further Education and Training,189.5681
+educational_institution,Other College,28.38902
+educational_institution,Higher Educational Institution,60.9359
+educational_institution,Adult Basic Education and Training Centre,54.7121
+educational_institution,Literacy classes,8.04503
+educational_institution,Home based education/home schooling,16.36105
+educational_institution,Unspecified,0.0
+educational_institution,Not applicable,7527.62114
+educational_institution,Total,24737.613
+employment_status,Employed,1007.89981
+employment_status,Unemployed,1537.14129
+employment_status,Discouraged work-seeker,752.573
+employment_status,Other not economically active,3683.15908
+employment_status,Unspecified,0.0
+employment_status,Not applicable,5388.03332
+employment_status,Total,12368.8065
+energy_lighting,Electricity,1685.50856
+energy_lighting,Gas,11.75914
+energy_lighting,Paraffin,68.87859
+energy_lighting,Candles,888.31944
+energy_lighting,Solar,5.6518
+energy_lighting,Other,0.0
+energy_lighting,None,5.5996
+energy_lighting,Unspecified,12.75823
+energy_lighting,Not applicable,0.0
+energy_lighting,Total,2678.47536
+household_income,No income,527.05454
+household_income,R 1 - R 4800,165.26747
+household_income,R 4801 - R 9600,341.26243
+household_income,R 9601 - R 19200,642.1179
+household_income,R 19201 - R 38400,622.476
+household_income,R 38401 -  R 76800,230.65331
+household_income,R 76801 - R 153600,90.15901
+household_income,R 153601 - R 307200,37.08883
+household_income,R 307201 - R 614400,17.19305
+household_income,R 614401- R 1228800,2.09916
+household_income,R 1228801 - R 2457600,1.02295
+household_income,R2457601 or more,1.08071
+household_income,Unspecified,0.0
+household_income,Not applicable,1.0
+household_income,Total,5356.95072
+household_size,1,630.3354
+household_size,2,317.17777
+household_size,3,309.627
+household_size,4,333.99878
+household_size,5,286.85466
+household_size,6,225.22271
+household_size,7,160.511
+household_size,8,145.45811
+household_size,9,88.07214
+household_size,10,85.98733
+household_size,11,43.97986
+household_size,12,13.29835
+household_size,13,12.31664
+household_size,14,8.1836
+household_size,15,4.11242
+household_size,16,6.15832
+household_size,17,4.11242
+household_size,18,1.02295
+household_size,19,0.0
+household_size,20,1.02295
+household_size,21,0.0
+household_size,22,0.0
+household_size,23,0.0
+household_size,24,1.02295
+household_size,25,0.0
+household_size,26,0.0
+household_size,27,0.0
+household_size,28,0.0
+household_size,29,0.0
+household_size,30,0.0
+household_size,31,0.0
+household_size,32,0.0
+household_size,33,0.0
+household_size,34,0.0
+household_size,35,0.0
+household_size,36,0.0
+household_size,37,0.0
+household_size,38,0.0
+household_size,39,0.0
+household_size,40,0.0
+household_size,41,0.0
+household_size,42,0.0
+household_size,43,0.0
+household_size,44,0.0
+household_size,45,0.0
+household_size,46,0.0
+household_size,47,0.0
+household_size,48,0.0
+household_size,49,0.0
+household_size,50,0.0
+household_size,51,0.0
+household_size,52,0.0
+household_size,53,0.0
+household_size,54,0.0
+household_size,55,0.0
+household_size,56,0.0
+household_size,57,0.0
+household_size,58,0.0
+household_size,59,0.0
+household_size,60,0.0
+household_size,61,0.0
+household_size,62,0.0
+household_size,63,0.0
+household_size,64,0.0
+household_size,65,0.0
+household_size,66,0.0
+household_size,67,0.0
+household_size,68,0.0
+household_size,69,0.0
+household_size,70,0.0
+household_size,71,0.0
+household_size,72,0.0
+household_size,73,0.0
+household_size,74,0.0
+household_size,75,0.0
+household_size,76,0.0
+household_size,77,0.0
+household_size,78,0.0
+household_size,79,0.0
+household_size,80,0.0
+household_size,81,0.0
+household_size,82,0.0
+household_size,83,0.0
+household_size,84,0.0
+household_size,85,0.0
+household_size,86,0.0
+household_size,87,0.0
+household_size,88,0.0
+household_size,89,0.0
+household_size,90,0.0
+household_size,91,0.0
+household_size,92,0.0
+household_size,93,0.0
+household_size,94,0.0
+household_size,95,0.0
+household_size,96,0.0
+household_size,97,0.0
+household_size,98,0.0
+household_size,99,0.0
+household_size,100,0.0
+household_size,101,0.0
+household_size,102,0.0
+household_size,103,0.0
+household_size,104,0.0
+household_size,105,0.0
+household_size,106,0.0
+household_size,107,0.0
+household_size,108,0.0
+household_size,109,0.0
+household_size,110,0.0
+household_size,111,0.0
+household_size,112,0.0
+household_size,113,0.0
+household_size,114,0.0
+household_size,115,0.0
+household_size,116,0.0
+household_size,117,0.0
+household_size,118,0.0
+household_size,119,0.0
+household_size,120,0.0
+household_size,121,0.0
+household_size,122,0.0
+household_size,123,0.0
+household_size,124,0.0
+household_size,125,0.0
+household_size,126,0.0
+household_size,127,0.0
+household_size,128,0.0
+household_size,129,0.0
+household_size,130,0.0
+household_size,131,0.0
+household_size,132,0.0
+household_size,133,0.0
+household_size,134,0.0
+household_size,135,0.0
+household_size,136,0.0
+household_size,137,0.0
+household_size,138,0.0
+household_size,139,0.0
+household_size,140,0.0
+household_size,141,0.0
+household_size,142,0.0
+household_size,143,0.0
+household_size,144,0.0
+household_size,145,0.0
+household_size,146,0.0
+household_size,147,0.0
+household_size,148,0.0
+household_size,149,0.0
+household_size,150,0.0
+household_size,151,0.0
+household_size,152,0.0
+household_size,153,0.0
+household_size,154,0.0
+household_size,155,0.0
+household_size,156,0.0
+household_size,157,0.0
+household_size,158,0.0
+household_size,159,0.0
+household_size,160,0.0
+household_size,161,0.0
+household_size,162,0.0
+household_size,163,0.0
+household_size,165,0.0
+household_size,166,0.0
+household_size,167,0.0
+household_size,168,0.0
+household_size,169,0.0
+household_size,170,0.0
+household_size,171,0.0
+household_size,172,0.0
+household_size,173,0.0
+household_size,174,0.0
+household_size,175,0.0
+household_size,176,0.0
+household_size,177,0.0
+household_size,178,0.0
+household_size,179,0.0
+household_size,180,0.0
+household_size,181,0.0
+household_size,182,0.0
+household_size,183,0.0
+household_size,184,0.0
+household_size,185,0.0
+household_size,186,0.0
+household_size,187,0.0
+household_size,188,0.0
+household_size,189,0.0
+household_size,190,0.0
+household_size,191,0.0
+household_size,192,0.0
+household_size,193,0.0
+household_size,194,0.0
+household_size,195,0.0
+household_size,196,0.0
+household_size,197,0.0
+household_size,198,0.0
+household_size,199,0.0
+household_size,200,0.0
+household_size,201,0.0
+household_size,202,0.0
+household_size,203,0.0
+household_size,204,0.0
+household_size,205,0.0
+household_size,206,0.0
+household_size,207,0.0
+household_size,208,0.0
+household_size,209,0.0
+household_size,210,0.0
+household_size,211,0.0
+household_size,212,0.0
+household_size,213,0.0
+household_size,214,0.0
+household_size,215,0.0
+household_size,216,0.0
+household_size,217,0.0
+household_size,218,0.0
+household_size,219,0.0
+household_size,220,0.0
+household_size,221,0.0
+household_size,222,0.0
+household_size,223,0.0
+household_size,224,0.0
+household_size,225,0.0
+household_size,226,0.0
+household_size,227,0.0
+household_size,228,0.0
+household_size,229,0.0
+household_size,230,0.0
+household_size,231,0.0
+household_size,232,0.0
+household_size,233,0.0
+household_size,234,0.0
+household_size,235,0.0
+household_size,236,0.0
+household_size,237,0.0
+household_size,238,0.0
+household_size,239,0.0
+household_size,240,0.0
+household_size,241,0.0
+household_size,242,0.0
+household_size,244,0.0
+household_size,245,0.0
+household_size,246,0.0
+household_size,247,0.0
+household_size,248,0.0
+household_size,249,0.0
+household_size,250,0.0
+household_size,251,0.0
+household_size,255,0.0
+household_size,256,0.0
+household_size,262,0.0
+household_size,Total,2678.47536
+main_dwelling,House or brick/concrete block structure on a separate stand or yard,2225.69756
+main_dwelling,Traditional dwelling/hut/structure made of traditional materials,111.95769
+main_dwelling,Flat or apartment in a  block of flats,48.25908
+main_dwelling,Cluster house in complex,1.24969
+main_dwelling,Town house (semi-detached house in complex),1.0
+main_dwelling,Semi-detached house,3.0
+main_dwelling,House/flat/room in back yard,28.61004
+main_dwelling,Informal dwelling/shack in back yard,85.87692
+main_dwelling,Informal dwelling/shack NOT in back yard; e.g. in an informal/squatter settlement or on farm,149.35291
+main_dwelling,Room/flatlet on a property or a larger dwelling/servants'quarters/granny flat,1.7998
+main_dwelling,Caravan or tent,0.0
+main_dwelling,Other,7.91344
+main_dwelling,Unspecified,12.75823
+main_dwelling,Not applicable,1.0
+main_dwelling,Total,2678.47536
+piped_water,Piped (tap) water inside the dwelling,376.34272
+piped_water,Piped (tap) water inside the yard,1618.89552
+piped_water,Piped (tap) water on community stand: distance less than 200m from dwelling,301.40208
+piped_water,Piped (tap) water to community stand: distance less than 200m and 500m from dwelling,33.564
+piped_water,Piped (tap) water to community stand: distance less than 500m and 1000m from dwelling,13.86249
+piped_water,Piped (tap) water on community stand: distance greater than 1000m (1 km) from dwelling,1.13269
+piped_water,No access to piped (tap) water,320.51763
+piped_water,Unspecified,12.75823
+piped_water,Not applicable,0.0
+piped_water,Total,2678.47536
+population_group,Black African,22558.297996
+population_group,Coloured,35.131805
+population_group,Indian or Asian,29.349791
+population_group,White,4.450984
+population_group,Other,42.932051
+population_group,Total,22670.162627
+refuse_removal,Removed by local authority at least once a week,51.99662
+refuse_removal,Removed by local authority less often,5.16801
+refuse_removal,Communal refuse dump,6.42235
+refuse_removal,Own refuse dump,2555.89907
+refuse_removal,No rubbish disposal,44.43128
+refuse_removal,Other,1.7998
+refuse_removal,Unspecified,12.75823
+refuse_removal,Not applicable,0.0
+refuse_removal,Total,2678.47536
+sex,Male,10785.09717
+sex,Female,11885.065457
+sex,Total,22670.162627
+sex_of_hh_head,Male,1167.83331
+sex_of_hh_head,Female,1509.64205
+sex_of_hh_head,Not applicable,1.0
+sex_of_hh_head,Unspecified,0.0
+sex_of_hh_head,Total,2678.47536
+tenure_status,Rented,59.12244
+tenure_status,Owned but not yet paid off,172.40029
+tenure_status,Occupied rent-free,895.1206
+tenure_status,Owned and fully paid off,1524.60699
+tenure_status,Other,13.46681
+tenure_status,Unspecified,12.75823
+tenure_status,Not applicable,1.0
+tenure_status,Total,2678.47536
+toilet_facilities,None,323.5712
+toilet_facilities,Flush toilet (connected to sewerage system),9.66413
+toilet_facilities,Flush toilet (with septic tank),17.34848
+toilet_facilities,Chemical toilet,63.94666
+toilet_facilities,Pit latrine with ventilation (VIP),1358.9207
+toilet_facilities,Pit latrine without ventilation,798.90174
+toilet_facilities,Bucket latrine,79.34309
+toilet_facilities,Other,14.02113
+toilet_facilities,Unspecified,12.75823
+toilet_facilities,Not applicable,0.0
+water_source,Regional/local water scheme (operated by a Water Service Authority or provider),2276.68457
+water_source,Borehole,12.98123
+water_source,Spring,0.0
+water_source,Rain-water tank,4.62255
+water_source,Dam / pool / stagnant water,1.24969
+water_source,River/stream,3.89896
+water_source,Water vendor,24.57911
+water_source,Water tanker,227.21978
+water_source,Other,127.23947
+water_source,Unspecified,0.0
+water_source,Not applicable,0.0
+water_source,Total,2678.47536
